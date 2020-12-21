@@ -13,7 +13,7 @@ for word in sentence:  # Перебор каждого слова в текст�
 print(word_counts)
 
 
-№2
+# №2
 #Create a dictionary called char_d from the string stri, so that the key is a character and the value is how many times it occurs.
 
 stri = "what can I do"
